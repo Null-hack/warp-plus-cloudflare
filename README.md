@@ -1,5 +1,5 @@
 --------------------------------------------------------------------
-### [?] How to use this script for ( *android* )
+### [?] How to use this script for ( *Termux* )
 - Open Termux
 - Install git `pkg install git`
 - Install python `pkg install python`
