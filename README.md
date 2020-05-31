@@ -13,5 +13,6 @@
 3. Advanced > Diagonistics
 4. Under Client Configuration > Copy the ID
 --------------------------------------------------------------------
-![](https://github.com/NullHaCk/warp-plus-cloudflare/null.png)
+
+<img src='null.png' />
 
