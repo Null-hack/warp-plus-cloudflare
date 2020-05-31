@@ -8,7 +8,6 @@ import os
 import sys
 os.system("title WARP-PLUS-CLOUDFLARE By @Mr_Virus (version 3.0.0)")
 os.system('cls' if os.name == 'nt' else 'clear')
-
 print ("[+] ABOUT SCRIPT:")
 print ("[-] With this script, you can getting unlimited GB on Warp+.")
 print ("[-] Version: 3.0.0")
